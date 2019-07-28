@@ -1,1 +1,3 @@
-https://github.com/zalandoresearch/fashion-mnist
+Instruction on how to use the data: https://github.com/zalandoresearch/fashion-mnist
+
+To download the data: https://github.com/zalandoresearch/fashion-mnist#get-the-data
